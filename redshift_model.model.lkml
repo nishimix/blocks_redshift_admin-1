@@ -3,6 +3,7 @@
 # # Make sure this is a connection where the database user has sufficient permissions (per above link)
 connection: "amazon_redshift"
 
+
 case_sensitive: no
 
 include: "redshift_*.dashboard"
